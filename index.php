@@ -32,8 +32,9 @@
                         </form>
                     </div>
                 </div>
-                <a href="cadastro.php" class="btn btn-primary">CADASTRAR</a>
+                <a href="cadastro.php" class="btn btn-primary">CADASTRAR-SE</a>
             </div>
         </div>
     <body>
+
 </html>
